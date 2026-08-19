@@ -10,14 +10,14 @@ export default function TopBar() {
     <header className="h-14 border-b border-surface-700 flex items-center justify-between px-5 bg-surface-900/80 backdrop-blur-sm sticky top-0 z-10">
       <div className="flex items-center gap-3">
         <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary-500 to-accent-500 flex items-center justify-center text-lg">
-          🌐
+          🗣️
         </div>
         <div>
           <h1 className="text-sm font-bold text-surface-100 leading-none">
-            Acquiring Risk English
+            PaySpeak
           </h1>
           <p className="text-xs text-surface-500 leading-none mt-0.5">
-            Training Platform
+            收单风控英语实训
           </p>
         </div>
       </div>

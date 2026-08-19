@@ -1,6 +1,6 @@
-# Acquiring Risk English Trainer
+# PaySpeak
 
-A bilingual English listening & speaking training platform for global acquiring risk compliance professionals.
+全球收单风控英语听说实训平台 —— 专为支付行业风控合规人才打造的 AI 对话式英语学习工具。
 
 ## Features
 
